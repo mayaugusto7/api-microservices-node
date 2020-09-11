@@ -1,1 +1,0 @@
-[![Run on Repl.it](https://repl.it/badge/github/mayribeiro/api-microservices-node)](https://repl.it/github/mayribeiro/api-microservices-node)
